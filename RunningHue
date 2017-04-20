@@ -1,0 +1,3 @@
+/usr/local/hue/build/env/bin/supervisor -d -u root -g hadoop
+Hue database /var/lib/hue/desktop.db
+Hue config file /usr/local/hue/desktop/conf/hue.ini
